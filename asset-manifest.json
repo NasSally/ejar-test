@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/ejar-test/static/css/main.470f96f1.css",
-    "main.js": "/ejar-test/static/js/main.c4dd29c0.js",
+    "main.css": "/ejar-test/static/css/main.0cbcd958.css",
+    "main.js": "/ejar-test/static/js/main.f29c2af8.js",
     "static/media/landing.png": "/ejar-test/static/media/landing.b9784bde570901cb9a3a.png",
+    "static/media/Ejar-Profile.pdf": "/ejar-test/static/media/Ejar-Profile.5cbf883bfaec4cf004f5.pdf",
     "static/media/footer-background.png": "/ejar-test/static/media/footer-background.1eeff64f5b88147bad1a.png",
     "static/media/logo.png": "/ejar-test/static/media/logo.d4df4b6df640e1f8957d.png",
-    "static/media/study.png": "/ejar-test/static/media/study.3194dd486e5dc023c0fe.png",
-    "static/media/marketing.png": "/ejar-test/static/media/marketing.505acad35b4206a25441.png",
-    "static/media/construction.png": "/ejar-test/static/media/construction.ae6ba4adb03197f5d918.png",
-    "static/media/brokerage.png": "/ejar-test/static/media/brokerage.6229099aa9aacebc912d.png",
-    "static/media/management.png": "/ejar-test/static/media/management.e0122f6e0e45cb8f8806.png",
-    "static/media/consultancy.png": "/ejar-test/static/media/consultancy.b96875b8c78e831daf73.png",
     "static/media/white-logo.png": "/ejar-test/static/media/white-logo.44258536168a45d002f8.png",
     "static/media/logo-icon.png": "/ejar-test/static/media/logo-icon.5d261d8c04e62320b75c.png",
     "index.html": "/ejar-test/index.html",
-    "main.470f96f1.css.map": "/ejar-test/static/css/main.470f96f1.css.map",
-    "main.c4dd29c0.js.map": "/ejar-test/static/js/main.c4dd29c0.js.map"
+    "main.0cbcd958.css.map": "/ejar-test/static/css/main.0cbcd958.css.map",
+    "main.f29c2af8.js.map": "/ejar-test/static/js/main.f29c2af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.470f96f1.css",
-    "static/js/main.c4dd29c0.js"
+    "static/css/main.0cbcd958.css",
+    "static/js/main.f29c2af8.js"
   ]
 }
